@@ -49,7 +49,7 @@ body.top:after {
     height: 100%;
 
     content: "";
-    background-image: url(file:///C:/hp/images/momo.png);
+    background-image: url(https://duong-hub.github.io/Portfolio-thuyhanguyen2602/images/momo.png);
     opacity: .05;
     z-index: 100000;
     pointer-events: none;
@@ -66,7 +66,7 @@ body.detail:after{
   width: 100%;
   height: 100%;
   content: "";
-  background-image: url(file:///C:/hp/images/momo.png);
+  background-image: url(https://duong-hub.github.io/Portfolio-thuyhanguyen2602/images/momo.png);
   opacity: .05;
   z-index: 10;
 }
@@ -79,7 +79,7 @@ body.detail:after{
 header{
     position: fixed;
     z-index: 300;
-    background-image: url(file:///C:/hp/images/momo.png); 
+    background-image: url(https://duong-hub.github.io/Portfolio-thuyhanguyen2602/images/momo.png); 
   }
 
 
@@ -129,7 +129,7 @@ nav ul li a:hover::after {
   position: fixed;
   height: 100%;
   width: 100%;
-  background: url(file:///C:/hp/images/momo.png);
+  background: url(https://duong-hub.github.io/Portfolio-thuyhanguyen2602/images/momo.png);
   z-index: 10000
 }
 
@@ -338,7 +338,7 @@ height: 100%;
   color: rgba(255,255,255,0.9);
   background-clip: text;
   -webkit-background-clip: text;
-  background-image: url(file:///C:/hp/images/momo.png);
+  background-image: url(https://duong-hub.github.io/Portfolio-thuyhanguyen2602/images/momo.png);
   -webkit-text-stroke: none;
   z-index: 4;
 
@@ -424,7 +424,7 @@ height: 100%;
     height: 100%;
 
     content: "";
-    background-image: url(file:///C:/hp/images/momo.png);
+    background-image: url(https://duong-hub.github.io/Portfolio-thuyhanguyen2602/images/momo.png);
     opacity: .05;
     z-index: 100000;
     pointer-events: none;
@@ -540,7 +540,7 @@ height: 100%;
   color: rgba(255,255,255,0.9);
   background-clip: text;
   -webkit-background-clip: text;
-  background-image: url(file:///C:/hp/images/momo.png);
+  background-image: url(https://duong-hub.github.io/Portfolio-thuyhanguyen2602/images/momo.png);
   -webkit-text-stroke: none;
   /*background-blend-mode: color-dodge;*/
   z-index: 4;
@@ -774,7 +774,7 @@ body.on .cursel-under h2{
 }
 
 #about::after{
-    background-image: url(file:///C:/hp/images/momo.png);
+    background-image: url(https://duong-hub.github.io/Portfolio-thuyhanguyen2602/images/momo.png);
     opacity: .05;
 }
 
@@ -782,7 +782,7 @@ body.on .cursel-under h2{
 
 .noise{
 /*  position: relative;*/
-  background-image: url(file:///C:/hp/images/momo.png);
+  background-image: url(https://duong-hub.github.io/Portfolio-thuyhanguyen2602/images/momo.png);
   opacity: .05;
   height: 100%;
   overflow: scroll;
@@ -802,7 +802,7 @@ body.on .cursel-under h2{
   width: 100%;
   height: 170%;
   content: "";
-  background-image: url(file:///C:/hp/images/momo.png);
+  background-image: url(https://duong-hub.github.io/Portfolio-thuyhanguyen2602/images/momo.png);
   opacity: .05;
   z-index: 10;
 }
@@ -863,7 +863,7 @@ body.on .cursel-under h2{
   color: rgba(255,255,255,0.9);
   background-clip: text;
   -webkit-background-clip: text;
-  background-image: url(file:///C:/hp/images/momo.png);
+  background-image: url(https://duong-hub.github.io/Portfolio-thuyhanguyen2602/images/momo.png);
   -webkit-text-stroke: none;
   z-index: 4;
 
@@ -1531,7 +1531,7 @@ height:100vh;
 /***** bg_image_set ******/
 
 
-.img_kazuki{background: url(file:///C:/hp/images/momo.png) no-repeat center;}
+.img_kazuki{background: url(https://duong-hub.github.io/Portfolio-thuyhanguyen2602/images/momo.png) no-repeat center;}
 .img_kazuki_duotone{background: url(../img/00_main/01_kazuki_duotone.jpg) no-repeat center;}
 .img_tamaki{background: url(../img/00_main/02_tamaki.jpg) no-repeat center;}
 .img_tamaki_duotone{background: url(../img/00_main/02_tamaki_duotone.jpg) no-repeat center;}
